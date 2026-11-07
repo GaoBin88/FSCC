@@ -59,8 +59,6 @@ Recommended: Python 3 with JupyterLab or Jupyter Notebook. Main packages importe
 pip install jupyterlab numpy pandas scipy matplotlib scikit-learn geopandas shapely pyproj
 ```
 
-Exact package versions have not been pinned or validated in a fresh environment.
-
 ## How to run
 
 1. Download or clone this repository.
